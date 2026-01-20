@@ -14,3 +14,17 @@ SQL introduction course, first part of the UE "Programming for data science", 5 
 - COUNT(), SUM(), AVG(), etc.
 - WHERE, BETWEEN, LIKE, IS NOT, etc.
 - GROUP BY, ORDER BY, HAVING, etc.
+
+## S2 - SQL basics (part 2)
+[notebook #2](S2-SQL-intro.ipynb)
+
+- PRAGMAS
+- CREATE TABLE, INSERT INTO, VALUES, etc.
+- import .csv into DB, pandas.DataFrame.to_sql(), pandas.read_sql(), etc.
+- UPDATE, DELETE, DROP
+- UNION
+- string functions
+- datetime functions
+- joins
+- CASE WHEN, WITH,
+- windows functions, OVER
