@@ -28,3 +28,10 @@ SQL introduction course, first part of the UE "Programming for data science", 5 
 - joins
 - CASE WHEN, WITH,
 - windows functions, OVER
+
+## S3 - exercises corrected (S1 & S2)
+[Empty notebook (with questions)](https://github.com/Jehadel/SQL-Courses-2026/blob/main/S3-Correction-S1-S2-EMPTY.ipynb)
+
+## S4 - exercises
+- [Exercise a : orders (+ some notes about `ALTER TABLE` and CRUD)](https://github.com/Jehadel/SQL-Courses-2026/blob/main/S4a-SQL-orders-exercices-EMPTY.ipynb)
+- [Exercise b : hospitals (recap)](https://github.com/Jehadel/SQL-Courses-2026/blob/main/S4b-SQL-hospitals-Exercise-EMPTY.ipynb)
