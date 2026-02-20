@@ -34,4 +34,4 @@ SQL introduction course, first part of the UE "Programming for data science", 5 
 
 ## S4 - exercises
 - [Exercise a : orders](https://github.com/Jehadel/SQL-Courses-2026/blob/main/S4a-SQL-orders-exercices-EMPTY.ipynb) (+ some notes about `ALTER TABLE` and CRUD)
-- [Exercise b : hospitals](https://github.com/Jehadel/SQL-Courses-2026/blob/main/S4b-SQL-hospitals-Exercise-EMPTY.ipynb) (recap)
+- [Exercise b : hospitals](https://github.com/Jehadel/SQL-Courses-2026/blob/main/S4b-SQL-hospitals-Exercise-EMPTY.ipynb) (recap). [Correction](https://github.com/Jehadel/SQL-Courses-2026/blob/main/S4b-SQL-hospitals-Exercise-ANSWERS.ipynb).
